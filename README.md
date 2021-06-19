@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--🌱 I’m currently learning front-end web development.
+<h1>-🌱 I’m currently learning front-end web development.</h1>
 -🔭 I have keen interest in UI/UX.
 -👯 I’m looking to collaborate on Github.
 -💬 Ask me about Designing.
