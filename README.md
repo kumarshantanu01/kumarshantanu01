@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning front-end web development.
-🔭 I have keen interest in UI/UX.
+-🌱 I’m currently learning front-end web development.
+-🔭 I have keen interest in UI/UX.
 👯 I’m looking to collaborate on Github.
 💬 Ask me about Designing.
 📫 How to reach me: shantanuk280@gmail.com
