@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Kumar Shantanu
 
 <p>-🌱 I’m currently learning front-end web development.</p>
 <p>-🔭 I have keen interest in UI/UX.</p>
