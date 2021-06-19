@@ -5,7 +5,7 @@
 👯 I’m looking to collaborate on Github.
 💬 Ask me about Designing.
 📫 How to reach me: shantanuk280@gmail.com
-⚡ My Dreams, My Reality💪 
+⚡ My Dreams, My Reality💪
 
 <!--
 **kumarshantanu01/kumarshantanu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
