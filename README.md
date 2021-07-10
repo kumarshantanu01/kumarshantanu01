@@ -29,6 +29,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarshantanu01&show_icons=true&locale=en" alt="kumarshantanu01" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarshantanu01&" alt="kumarshantanu01" /></p>
+
 
 <!--
 **kumarshantanu01/kumarshantanu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
