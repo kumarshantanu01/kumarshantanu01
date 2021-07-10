@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kumar Shantanu
+<h1 align="center"> Hi there 👋 I'm Kumar Shantanu</h1>
 
 <p>-🌱 I’m currently learning front-end web development.</p>
 <p>-🔭 I have keen interest in UI/UX.</p>
