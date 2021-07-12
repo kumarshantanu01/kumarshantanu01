@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there 👋 I'm Kumar Shantanu</h1>
 
+<img align="right" src="images/11b40409f4192832c8a8124e253631d1.gif">
+
 <p>-🌱 I’m currently learning front-end web development.</p>
 <p>-🔭 I have keen interest in UI/UX.</p>
 <p>-👯 I’m looking to collaborate on Github.</p>
 <p>-💬 Ask me about Designing.</p>
 <p>-📫 How to reach me: shantanuk280@gmail.com</p>
 <p>-⚡ My Dreams, My Reality💪</p>
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarshantanu01&label=Profile%20views&color=0e75b6&style=flat" alt="kumarshantanu01" /> </p>
