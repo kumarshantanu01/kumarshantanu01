@@ -16,6 +16,8 @@
 <p align="left">
 <a href="https://twitter.com/shantanu_kumar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantanu_kumar3" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/kumar-shantanu-8447a1205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar-shantanu-8447a1205" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/kumar_shantanu_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumar_shantanu_01" height="30" width="40" /></a>
+  
 </p>
 </p>
 
