@@ -10,7 +10,7 @@
 <p>-⚡ My Dreams, My Reality💪</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarshantanu01&label=Profile%20views&color=0e75b6&style=flat" alt="kumarshantanu01" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarshantanu01&label=Profile%20views&color=0e75b6&style=flat" alt="kumarshantanu01" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
