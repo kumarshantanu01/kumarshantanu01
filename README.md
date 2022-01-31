@@ -7,7 +7,7 @@
 <p>-🔭 I also have keen interest in UI/UX.</p>
 <p>-👯 I’m looking to collaborate on Github.</p>
 <p>-💬 Ask me about Development/Designing.</p>
-<p>-📫 How to reach me: shantanuk280@gmail.com</p>
+<p>-📫 How to reach me: <a target="_blank" href="mailto:shantanuk280@gmail.com">shantanuk280@gmail.com</a></p>
 <!-- <p>-⚡ My Dreams, My Reality💪</p> -->
 
 
