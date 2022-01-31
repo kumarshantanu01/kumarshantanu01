@@ -2,12 +2,13 @@
 
 <img align="right" src="images/11b40409f4192832c8a8124e253631d1.gif">
 
-<p>-🌱 I’m currently learning front-end web development.</p>
-<p>-🔭 I have keen interest in UI/UX.</p>
+<p>-🌱 I’m a front-end developer.</p>
+<p>-⚡ I’m currently learning backend and improving my DSA skills.</p>
+<p>-🔭 I also have keen interest in UI/UX.</p>
 <p>-👯 I’m looking to collaborate on Github.</p>
-<p>-💬 Ask me about Designing.</p>
+<p>-💬 Ask me about Development/Designing.</p>
 <p>-📫 How to reach me: shantanuk280@gmail.com</p>
-<p>-⚡ My Dreams, My Reality💪</p>
+<!-- <p>-⚡ My Dreams, My Reality💪</p> -->
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarshantanu01&label=Profile%20views&color=0e75b6&style=flat" alt="kumarshantanu01" /> </p> -->
@@ -17,7 +18,9 @@
 <a href="https://twitter.com/shantanu_kumar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantanu_kumar3" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/kumar-shantanu-8447a1205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar-shantanu-8447a1205" height="30" width="40" /></a>
   <a href="https://www.instagram.com/kumar_shantanu_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumar_shantanu_01" height="30" width="40" /></a>
-  
+<!--   <a target="_blank" href="mailto:shantanuk280@gmail.com">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />
+</a> -->
 </p>
 </p>
 
